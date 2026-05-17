@@ -1,4 +1,3 @@
-````markdown
 # MedAT Analysis
 
 A small terminal-based project I built to simulate the exact timing environment of the Austrian medical admission test (MedAT) using nothing more than Bash and R.
